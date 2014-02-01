@@ -1,4 +1,0 @@
-Database
-========
-
-Database for AROS
